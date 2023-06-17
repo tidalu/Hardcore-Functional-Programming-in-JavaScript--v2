@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fs": "^0.0.1-security",
     "qunit": "^2.19.4",
     "ramda": "^0.29.0"
   },
