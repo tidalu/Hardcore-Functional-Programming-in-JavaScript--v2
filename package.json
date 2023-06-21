@@ -2,9 +2,14 @@
   "dependencies": {
     "folktale": "^2.3.2",
     "fs": "^0.0.1-security",
+    "immutable-ext": "^1.1.5",
+    "moment": "^2.29.4",
     "qunit": "^2.19.4",
     "ramda": "^0.29.0",
     "types": "^0.1.1"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
 }
